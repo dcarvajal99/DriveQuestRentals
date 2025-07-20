@@ -1,0 +1,29 @@
+# Archivos de sistema
+.DS_Store
+
+# Archivos de IntelliJ IDEA
+.idea/
+*.iml
+*.iws
+out/
+*.ipr
+
+# Maven
+target/
+
+# Archivos de logs
+*.log
+
+# Archivos de configuración de usuario
+*.swp
+*.swo
+
+# Archivos de compilación
+*.class
+
+# Archivos temporales
+tmp/
+*.tmp
+
+# Archivos de respaldo
+*~
