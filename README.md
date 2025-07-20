@@ -1,5 +1,3 @@
----
-
 ## Requisitos
 
 - ** Java 17+ ** (recomendado Java 21)
