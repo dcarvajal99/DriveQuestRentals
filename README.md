@@ -1,6 +1,6 @@
 ---
 
-## ⚙️ Requisitos
+## Requisitos
 
 - ** Java 17+ ** (recomendado Java 21)
 - **Maven** para la gestión de dependencias y compilación
