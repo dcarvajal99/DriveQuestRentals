@@ -2,7 +2,7 @@
 
 ## ⚙️ Requisitos
 
-- **Java 17+** (recomendado Java 21)
+- ** Java 17+ ** (recomendado Java 21)
 - **Maven** para la gestión de dependencias y compilación
 - **IntelliJ IDEA** (opcional, recomendado)
 
