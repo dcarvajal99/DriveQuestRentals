@@ -33,6 +33,9 @@ Al iniciar, verás un menú con opciones:
 8. **Buscar boletas por correo**: Muestra todas las boletas asociadas a un correo.
 9. **Salir y guardar**: Guarda los datos y termina la aplicación.
 
+    <img width="1723" height="1098" alt="image" src="https://github.com/user-attachments/assets/eb9d6d80-d4c9-4548-a530-89129f2db615" />
+
+
 ---
 
 ## 📑 Archivos de datos
